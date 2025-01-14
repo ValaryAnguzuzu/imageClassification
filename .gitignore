@@ -19,3 +19,4 @@ pyvenv.cfg
 
 # Ignore temporary files
 *.tmp
+data/
