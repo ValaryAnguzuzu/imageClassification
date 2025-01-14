@@ -1,0 +1,19 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore logs
+logs/
+*.log
+
+# Ignore models (if they're temporary or regeneratable)
+models/
+
+# Ignore Python virtual environment
+bin/
+lib/
+include/
+share/
+pyvenv.cfg
+
+# Ignore temporary files
+*.tmp
